@@ -1,26 +1,13 @@
 # PyBer_Analysis
 
-The first paragraph should include the following:
+This data was to show the progress of building a visual represenations. There was a DataFrame that summarizes the key metrics for the ride-sharing data by city type and a multiple-line chart, with one line for each city type, that shows the sum of the fares for each week. These showed that the majority of the income comes from Urban areas. There also seems like there are , on average, two rides per driver a day. This shows that ,per driver Rural makes more money at around $100 a day when Urban makes around $30.
 
-A DataFrame that summarizes the key metrics for the ride-sharing data by city type.
-A multiple-line chart, with one line for each city type, that shows the sum of the fares for each week.
+I had a lot of trouble screating the summary for the dataframe. I reread and looked at the old module. I think its best to keep examples of all the different type of tables and charts to be able to refence back to. That way it is easier to remember what you already learned.
 
-
-
-
-This data was to show the progress of building a visual represenations 
+I would recommoned to invest more in urban areas since there is a much larger demand. That means having a larger number of driver stationed in specific areas with a small range. 
+I feel like they should have also taken the distance traveled to be able to see how much money they got on average by mile. They should have also taken average time since urban areas could be shorter distances but the same amount of time because of traffic. Checking how much money you make on an average hour could also be important. 
 
 
 
-How did you analyze the data to create the technical deliverables?
-What can be said about the summary DataFrame and multiple-line graph with respect to the ride-sharing data among the different city types? Include images of the summary DataFrame table and the multiple-line graph in these results.
-A short summary of the results.
-The second paragraph should include the following:
 
-What challenges or difficulties did you encounter? If none, then briefly explain what challenges or difficulties may be encountered and how to avoid them using technical analysis.
-Explain how you overcame any challenges or difficulties, and include what technical analysis you use to overcome the challenges or difficulties.
-The third paragraph should include the following:
 
-Based on the data from the different city types, what recommendations would you give the CEO for addressing any disparities among the city types?
-Provide two additional analyses you could do to gain more insight into the data, like using other datasets.
-What technical steps would you take to perform the additional analyses?
